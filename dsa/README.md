@@ -42,7 +42,50 @@
   - Rule: For Linked List problems, especially when extra space isn't allowed, use the Fast & Slow Pointer approach.
   - Example Scenario: Detecting a cycle in a linked list.
 
-## Readings
+## Data Structures
+
+- Arrays, Strings and Linked Lists
+  - <https://lnkd.in/gT_FhqYa>
+- Stacks, Queues, Heaps and Priority Queues
+  - <https://lnkd.in/gzrcfZtj>
+  - <https://lnkd.in/gNsjGw8p>
+- Hash Maps and Hash Sets
+  - <https://lnkd.in/gPsUh6w5>
+- Trees (Binary Trees, Binary Search Trees, AVL Trees)
+  - <https://lnkd.in/g5vXWFu3>
+- Graphs (DFS, BFS, Dijkstra’s, Bellman Ford, Floyd-Warshall)
+  - <https://lnkd.in/gcHRz5-p>
+  - <https://lnkd.in/gRsxH7Th>
+  - <https://lnkd.in/gBN54_mc>
+  - <https://lnkd.in/gBaaZCbM>
+  - <https://lnkd.in/g6zvRYbb>
+  - <https://lnkd.in/gRpJ6qxN>
+- Tries
+  - <https://lnkd.in/gDqU7Ypy>
+- Disjoint Sets (Union-Find)
+  - <https://lnkd.in/gQx74mJc>
+
+## Algorithms
+
+- Sorting (Quick Sort, Merge Sort, Heap Sort)
+- Searching (Binary Search, Ternary Search)
+  - <https://lnkd.in/gjykw7x2>
+- Recursion and Backtracking
+  - <https://lnkd.in/gersVnrz>
+- Dynamic Programming (Knapsack, Longest Common Subsequence, LIS)
+  - <https://lnkd.in/gHYgRDSZ>
+- Greedy Algorithms
+  - <https://lnkd.in/gianQPuw>
+- Divide and Conquer
+- Sliding Window and Two Pointer Techniques
+  - <https://lnkd.in/gbMnsS8i>
+  - <https://lnkd.in/gZeG-PXb>
+- Bit Manipulation
+  - <https://lnkd.in/gtZZc6tR>
+- Graph Algorithms (Kruskal, Prim, Topological Sort)
+- String Matching (KMP, Rabin-Karp)
+
+## Practice
 
 - <https://leetcode.com/discuss/interview-question?currentPage=-orderBy=hot&query=>
 - <https://leetcode.com/discuss/compensation?currentPage=2&orderBy=newest_to_oldest&query=>
@@ -50,48 +93,3 @@
 - <https://www.techinterviewhandbook.org/grind75>
 - <https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions>
 - <https://leetcodewizard.io/problem-database>
-
-- Dynamic Programming
-  - <https://lnkd.in/gHYgRDSZ>
-- Greedy Algorithms
-  - <https://lnkd.in/gianQPuw>
-- Graphs
-  - <https://lnkd.in/gcHRz5-p>
-- Backtracking
-  - <https://lnkd.in/gersVnrz>
-- Linked List
-  - <https://lnkd.in/gT_FhqYa>
-- Bit Manipulation
-  - <https://lnkd.in/gtZZc6tR>
-- Hash Table and Map
-  - <https://lnkd.in/gPsUh6w5>
-- Disjoint Set Union (Union Find)
-  - <https://lnkd.in/gQx74mJc>
-- Bridges and Articulation Points
-  - <https://lnkd.in/gRpJ6qxN>
-- Dijkstra Algorithm
-  - <https://lnkd.in/gRsxH7Th>
-- Bellman Ford Algorithm
-  - <https://lnkd.in/gBN54_mc>
-- Floyd Warshall Algorithm
-  - <https://lnkd.in/g6zvRYbb>
-- Topological Sort
-  - <https://lnkd.in/gBaaZCbM>
-- Sliding Window
-  - <https://lnkd.in/gbMnsS8i>
-- Trie
-  - <https://lnkd.in/gDqU7Ypy>
-- Monotonic Queue and Priority Queue
-  - <https://lnkd.in/gzrcfZtj>
-- Heaps
-  - <https://lnkd.in/gNsjGw8p>
-- Trees
-  - <https://lnkd.in/g5vXWFu3>
-- Binary Search
-  - <https://lnkd.in/gjykw7x2>
-- Two Pointers
-  - <https://lnkd.in/gZeG-PXb>
-
-## Practice
-
-- <https://neetcode.io/roadmap>
