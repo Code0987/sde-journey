@@ -23,6 +23,7 @@
 - <https://jobs.worqstrap.com/app/#/remote-jobs>
 - <https://weworkremotely.com/>
 - <https://github.com/TheAjinkya/remote-job-sites>
+- <https://docs.google.com/spreadsheets/d/1a_IJ2Vy2uWDras2dF6WCuVuBAIGscElluVSS-XgMMXI/edit?gid=857371075>
 
 #### Remote Companies
 
