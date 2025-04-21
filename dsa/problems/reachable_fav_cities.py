@@ -1,3 +1,12 @@
+"""
+Problem:
+Given a directed graph with n cities and m roads, where each road has a time to reach from one city to another, find the minimum time to reach a favorite city from a starting city.
+If there are multiple favorite cities reachable in the same time, return those which are reachable in the minimum time.
+
+Tags: Google
+"""
+
+
 from collections import defaultdict, deque
 
 
@@ -57,5 +66,6 @@ def test_reachable_fav_cities():
     assert reachable_fav_cities(n_cities, time_to_reach, {3}, 0) == (4, [3])
     assert reachable_fav_cities(n_cities, time_to_reach, {5}, 0) == (float("inf"), [])
     assert reachable_fav_cities(n_cities, time_to_reach, {0, 1}, 0) == (0, [0])
+
 
 test_reachable_fav_cities()
